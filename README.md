@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ramkms6666/sample%20project/_apis/build/status/ramkms6666.pipelines-java?branchName=master)](https://dev.azure.com/ramkms6666/sample%20project/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
